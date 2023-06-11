@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url("./pic2.jpg");
+    background-image: url("./pic2.jpg"); /* Just add a Picture */
      background-repeat: no-repeat;
   background-size: cover;
 
